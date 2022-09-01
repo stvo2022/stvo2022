@@ -1,0 +1,28 @@
+# A look up file for Tst - Please never remove this comment
+000|N|N|
+001|N|N|
+002|N|N| 
+010|N|N|  
+011|XPM|N|  
+012|XPM|M| 
+020|N|N|
+021|XPM|P|
+022|N|N|
+100|XX|N| 
+101|XX|M|  
+102|XX|N|  
+110|XX|P| 
+111|N|N|  
+112|XX|P|  
+120|XX|N|  
+121|XX|M|  
+122|XX|N|  
+200|XX|N|  '
+201|XX|N| 
+202|XX|N|  
+210|XX|P|  
+211|XPM|N|  
+212|XPM|M| 
+220|XX|N|  
+221|XX|M|
+222|XXX|N| 

@@ -1,0 +1,19 @@
+# A look up file for Tst - Please never remove this comment
+000|N|N|
+001|N|N|
+002|N|N|
+010|SS|N| 
+011|SS|T| 
+012|SS|N| 
+020|SSS|N
+021|SSS|T 
+022|SSS|N
+100|N|N| 
+101|TST|N|
+102|N|N|
+110|SS|N|
+111|N|N|
+112|SS|N|
+120|SSS|N|
+121|TST|N|
+122|SSS|N|
